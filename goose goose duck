@@ -1,0 +1,19 @@
+#!name=鹅鸭杀分流
+#!desc=鹅鸭杀分流
+
+
+[Rule]
+# 鹅鸭杀↓
+IP-CIDR,18.141.84.24/32,Proxies // Added for: 18.141.84.24:5055 (Port Map)
+IP-CIDR,18.194.67.83/32,Proxies // Added for: 18.194.67.83:5055 (Port Map)
+IP-CIDR,18.230.161.222/32,Proxies // Added for: 18.230.161.222:5055 (Port Map)
+IP-CIDR,3.106.43.128/32,Proxies // Added for: 3.106.43.128:5055 (Port Map)
+IP-CIDR,3.124.157.100/32,Proxies // Added for: 3.124.157.100:5058 (Port Map)
+IP-CIDR,3.137.55.104/32,Proxies // Added for: 3.137.55.104:5055 (Port Map)
+IP-CIDR,54.150.52.31/32,Proxies // Added for: 54.150.52.31:5055 (Port Map)
+IP-CIDR,54.180.64.186/32,Proxies // Added for: 54.180.64.186:5055 (Port Map)
+DOMAIN-SUFFIX,unity3d.com,Proxies // Added for: config.uca.cloud.unity3d.com:443
+DOMAIN-SUFFIX,gaggle.fun,Proxies // Added for: ggdassets.gaggle.fun:443
+DOMAIN-SUFFIX,bugsnag.com,Proxies // Added for: sessions.bugsnag.com:443
+DOMAIN-SUFFIX,cloudfunctions.net,Proxies // Added for: us-central1-gaggle-staging.cloudfunctions.net:443
+# 鹅鸭杀↑
