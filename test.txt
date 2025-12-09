@@ -170,7 +170,6 @@ proxy-groups:
       - 🇺🇦 Flower | 乌克兰标准 IEPL 专线 1
       - 🇮🇹 Flower | 意大利标准 IEPL 专线 1
       - 🇭🇺 Flower | 匈牙利标准 IEPL 专线 1
-      - 🇪🇸 Flower | 西班牙标准 IEPL 专线 1
       - 🇹🇷 Flower | 土耳其标准 IEPL 专线 1
       - 🇩🇪 Flower | 德国标准 IEPL 专线 1
       - 🇩🇪 Flower | 德国标准 IEPL 专线 2
