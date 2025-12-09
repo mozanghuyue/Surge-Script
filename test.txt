@@ -100,7 +100,6 @@ proxies:
   - {name: 🇦🇪 Flower | 阿联酋标准 IEPL 专线 1, server: bizgzdata1.233netbiz.com, port: 11083, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 440c5ab399.m.ctrip.com}, udp: true}
   - {name: 🇵🇭 Flower | 菲律宾标准 IEPL 专线 1, server: bizgzdata1.233netbiz.com, port: 11084, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 440c5ab399.m.ctrip.com}, udp: true}
   - {name: 🇲🇾 Flower | 马来西亚标准 IEPL 专线 1, server: bizgzdata1.233netbiz.com, port: 11085, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 440c5ab399.m.ctrip.com}, udp: true}
-  - {name: 🇪🇬 Flower | 埃及标准 IEPL 专线 1, server: bizbjdata1.233netbiz.com, port: 11086, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 440c5ab399.m.ctrip.com}, udp: true}
   - {name: 🇳🇬 Flower | 尼日利亚标准 IEPL 专线 1, server: bizbjdata1.233netbiz.com, port: 11087, type: ss, cipher: aes-128-gcm, password: Sj10bnYDe7w6V29E, plugin: obfs, plugin-opts: {mode: http, host: 440c5ab399.m.ctrip.com}, udp: true}
 proxy-groups:
   - name: Proxies
@@ -197,7 +196,6 @@ proxy-groups:
       - 🇦🇪 Flower | 阿联酋标准 IEPL 专线 1
       - 🇵🇭 Flower | 菲律宾标准 IEPL 专线 1
       - 🇲🇾 Flower | 马来西亚标准 IEPL 专线 1
-      - 🇪🇬 Flower | 埃及标准 IEPL 专线 1
       - 🇳🇬 Flower | 尼日利亚标准 IEPL 专线 1
   - name: YouTube
     type: select
