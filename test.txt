@@ -333,7 +333,6 @@ proxy-groups:
       - 🇸🇬 Flower | 新加坡标准 IEPL 专线 6
       - 🇸🇬 Flower | 新加坡标准 IEPL 专线 7
       - 🇸🇬 Flower | 新加坡标准 IEPL 专线 8
-      - 🇳🇿 Flower | 新西兰标准 IEPL 专线 1
   - name: TW
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -362,7 +361,6 @@ proxy-groups:
       - 🇯🇵 Flower | 日本标准 IEPL 专线 6
       - 🇯🇵 Flower | 日本标准 IEPL 专线 7
       - 🇯🇵 Flower | 日本标准 IEPL 专线 8
-      - 🇳🇬 Flower | 尼日利亚标准 IEPL 专线 1
   - name: US
     type: url-test
     url: http://www.gstatic.com/generate_204
